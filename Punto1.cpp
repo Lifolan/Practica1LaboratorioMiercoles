@@ -10,7 +10,7 @@ int Ejercicio1(){
     cin >>caracter;
 
     if(caracter == 'a'|| caracter == 'e'|| caracter == 'i'||caracter == 'o'|| caracter == 'u'
-       ||caracter == 'A'|| caracter == 'E'|| caracter == 'I'||caracter == 'O'|| caracter == 'U'){
+            ||caracter == 'A'|| caracter == 'E'|| caracter == 'I'||caracter == 'O'|| caracter == 'U'){
         cout << caracter << " Es una vocal."<< endl;
     }
     else if(caracter == 'b'|| caracter == 'c'|| caracter == 'd'||caracter == 'f'|| caracter == 'g'
@@ -24,7 +24,7 @@ int Ejercicio1(){
         cout << caracter << " Es una consonante"<< endl;
     }
     else{
-        cout << caracter << " No es un caracter."<< endl;
+        cout << caracter << " No es un letra."<< endl;
     }
     return 0;
 }
