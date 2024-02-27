@@ -1,10 +1,11 @@
 #include <iostream>
 #include "Punto1.h"
 
+
 using namespace std;
 
 int main()
 {
-    Ejercicio1();
+    Ejercicio4();
     return 0;
 }
