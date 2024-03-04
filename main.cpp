@@ -1,11 +1,12 @@
-#include <iostream>
-#include "Punto1.h"
+# include <iostream>
+# include "Punto1.h"
 
 
 using namespace std;
 
 int main()
 {
-    Ejercicio5();
+    Ejercicio6();
+
     return 0;
 }
