@@ -9,4 +9,5 @@ int Ejercicio5();
 int Ejercicio6();
 int Ejercicio7();
 int Ejercicio8();
+int Ejercicio9();
 #endif // PUNTO1_H
